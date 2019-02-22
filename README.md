@@ -2,7 +2,7 @@
 
 It's me, Sebastien!
 
-[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/sebastienbarre/card/blob/master/LICENSE)
+[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/sebastienbarre/card/blob/master/LICENSE) [![npm version](https://badge.fury.io/js/%40sebastienbarre%2Fcard.svg)](https://badge.fury.io/js/%40sebastienbarre%2Fcard)
 
 ## Usage
 
