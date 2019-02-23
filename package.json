@@ -1,6 +1,6 @@
 {
   "name": "@sebastienbarre/card",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "A personal card for Sebastien Barre",
   "main": "index.js",
   "bin": {
@@ -19,6 +19,9 @@
     "npm card",
     "npx card",
     "business card"
+  ],
+  "files": [
+    "bin/index.js"
   ],
   "author": "Sebastien Barre (http://barre.io)",
   "license": "MIT",
